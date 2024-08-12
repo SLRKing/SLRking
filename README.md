@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Raviteja K</h1>
-<h3 align="center">Passionate Data Scientist & Analyst || Gen AI Enthusiast || Product Management ||</h3>
+<h3 align="center"> Full Stack Data Scientist & Analyst || Gen AI Enthusiast || Passionate Product Management ||</h3>
 
 
 <p img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
